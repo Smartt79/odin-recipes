@@ -1,0 +1,25 @@
+body {
+    background-color: azure;
+}
+h1 {
+    
+    color: red;
+    background-color: blue;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Title {
+    color: red;
+    background-color: blue;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+div {
+    color: blue;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
